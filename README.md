@@ -1,5 +1,6 @@
 # attributes
 
 TODO: Enter the cookbook description here.
-insert some values
+#Attribute Persistence
+#Attribute Types
 # attributes
